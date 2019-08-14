@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard
+        defaultDictionaryLocale="en"
+        defaultEnabled="true"
+        description="@string/english_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="97370358-7a00-451a-9f11-9ac143e33cff"
+        index="1"
+        layoutResId="@xml/qwerty"
+        nameResId="@string/english_keyboard"
+        physicalKeyboardMappingResId="@xml/english_physical" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        defaultEnabled="false"
+        description="@string/compact_keyboard_16keys_description"
+        iconResId="@drawable/ic_status_english"
+        id="e7402e1f-123d-4400-b1f9-bdbabc3521e5"
+        index="2"
+        landscapeResId="@xml/qwerty"
+        layoutResId="@xml/eng_16keys"
+        nameResId="@string/compact_keyboard_16keys"
+        physicalKeyboardMappingResId="@xml/english_physical" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        defaultEnabled="false"
+        description="@string/english_keyboard_symbols_description"
+        iconResId="@drawable/ic_status_english"
+        id="ff594912-fea4-4278-ae71-c5b2db511697"
+        index="3"
+        landscapeResId="@xml/qwerty_with_symbols"
+        layoutResId="@xml/qwerty_with_symbols"
+        nameResId="@string/english_keyboard_symbols"
+        physicalKeyboardMappingResId="@xml/english_physical" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/compact_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="bb337831-9266-4293-9ff1-a65e4336048d"
+        index="4"
+        landscapeResId="@xml/qwerty"
+        layoutResId="@xml/qwerty_compact"
+        nameResId="@string/compact_keyboard" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/dvorak_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="d4712745-ba32-4ef7-8973-a83bc12a6ca6"
+        index="5"
+        layoutResId="@xml/dvorak"
+        nameResId="@string/dvorak_keyboard" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/compact_dvorak_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="9f3e40c0-9963-4ed1-8884-c3a7d835fb68"
+        index="6"
+        landscapeResId="@xml/dvorak"
+        layoutResId="@xml/dvorak_compact"
+        nameResId="@string/compact_dvorak_keyboard" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/colemak_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="afa5486e-ef31-45a7-bebe-c5582178631c"
+        index="7"
+        layoutResId="@xml/colemak"
+        nameResId="@string/colemak_keyboard" />
+    <Keyboard
+        defaultDictionaryLocale="en"
+        description="@string/workman_keyboard_description"
+        iconResId="@drawable/ic_status_english"
+        id="37334220-b0ca-11e8-8c82-0b99ca86e03e"
+        index="8"
+        layoutResId="@xml/workman"
+        nameResId="@string/workman_keyboard" />
+    <Keyboard
+        description="@string/terminal_keyboard_description"
+        id="bc6fe035-a16b-4b1c-891e-bc6d23a6c8bd"
+        index="9"
+        layoutResId="@xml/terminal"
+        nameResId="@string/terminal_keyboard" />
+    <Keyboard
+        description="@string/halmak_keyboard_description"
+        id="5aa7b75d-530f-46e5-89e2-240f888a06be"
+        index="10"
+        layoutResId="@xml/halmak"
+        nameResId="@string/halmak_keyboard" />
+
+</Keyboards>

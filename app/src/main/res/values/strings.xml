@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="colemak_keyboard">Colemak</string>
+    <string name="colemak_keyboard_description">Colemak layout. Created with Hugo Lopes</string>
+    <string name="compact_dvorak_keyboard">Dv Compact</string>
+    <string name="compact_dvorak_keyboard_description">Compact Dvorak in portrait</string>
+    <string name="compact_keyboard">EN Compact</string>
+    <string name="compact_keyboard_16keys">EN Keypad</string>
+    <string name="compact_keyboard_16keys_description">16 keys English layout</string>
+    <string name="compact_keyboard_description">Compact in portrait</string>
+    <string name="dvorak_keyboard">Dvorak</string>
+    <string name="dvorak_keyboard_description">Dvorak layout. Created with Stephen Paul Weber</string>
+    <string name="english_dictionary">English</string>
+    <string name="english_dictionary_description">English</string>
+    <string name="english_keyboard">English</string>
+    <string name="english_keyboard_description">QWERTY Latin keyboard</string>
+    <string name="english_keyboard_symbols">English</string>
+    <string name="english_keyboard_symbols_description">QWERTY Latin keyboard with symbols (on long press)</string>
+    <string name="halmak_keyboard">Halmak</string>
+    <string name="halmak_keyboard_description">Nikolay Nemshilov\'s Halmak layout, implemented by Zorkedon</string>
+    <string name="main_english_keyboard_id">c7535083-4fe6-49dc-81aa-c5438a1a343a</string>
+    <string name="terminal_keyboard">Terminal</string>
+    <string name="terminal_keyboard_description">Created with bittrance</string>
+    <string name="workman_keyboard">Workman</string>
+    <string name="workman_keyboard_description">Layout by OJ Bucao</string>
+    <string-array name="english_initial_suggestions">
+        <item>!</item>
+        <item>\?</item>
+        <item>,</item>
+        <item>\"</item>
+        <item>\'</item>
+        <item>:</item>
+        <item>(</item>
+        <item>)</item>
+        <item>-</item>
+        <item>/</item>
+        <item>\@</item>
+        <item>_</item>
+    </string-array>
+</resources>

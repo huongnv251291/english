@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/english_autotext"
+        description="@string/english_dictionary_description"
+        dictionaryResourceId="@array/english_words_dict_array"
+        id="c90e488d-a387-4f47-8081-021cd66904c4"
+        initialSuggestions="@array/english_initial_suggestions"
+        locale="en"
+        nameResId="@string/english_dictionary"
+        type="binary_resource" />
+</Dictionaries>
